@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jw4puek0U/A=",
+  "dgSpecHash": "zSPssV13aDM=",
   "success": true,
-  "projectFilePath": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\3-Parcial\\Proyecto\\video\\Secure_App_Backend\\Secure_App_Backend\\Secure_App_Backend.csproj",
+  "projectFilePath": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\3-Parcial\\Proyecto\\video\\Backend\\Secure_App_Backend\\Secure_App_Backend\\Secure_App_Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\duran\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\duran\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

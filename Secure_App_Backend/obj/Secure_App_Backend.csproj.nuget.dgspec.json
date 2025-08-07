@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\3-Parcial\\Proyecto\\video\\Secure_App_Backend\\Secure_App_Backend\\Secure_App_Backend.csproj": {}
+    "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\3-Parcial\\Proyecto\\video\\Backend\\Secure_App_Backend\\Secure_App_Backend\\Secure_App_Backend.csproj": {}
   },
   "projects": {
-    "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\3-Parcial\\Proyecto\\video\\Secure_App_Backend\\Secure_App_Backend\\Secure_App_Backend.csproj": {
+    "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\3-Parcial\\Proyecto\\video\\Backend\\Secure_App_Backend\\Secure_App_Backend\\Secure_App_Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\3-Parcial\\Proyecto\\video\\Secure_App_Backend\\Secure_App_Backend\\Secure_App_Backend.csproj",
+        "projectUniqueName": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\3-Parcial\\Proyecto\\video\\Backend\\Secure_App_Backend\\Secure_App_Backend\\Secure_App_Backend.csproj",
         "projectName": "Secure_App_Backend",
-        "projectPath": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\3-Parcial\\Proyecto\\video\\Secure_App_Backend\\Secure_App_Backend\\Secure_App_Backend.csproj",
+        "projectPath": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\3-Parcial\\Proyecto\\video\\Backend\\Secure_App_Backend\\Secure_App_Backend\\Secure_App_Backend.csproj",
         "packagesPath": "C:\\Users\\duran\\.nuget\\packages\\",
-        "outputPath": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\3-Parcial\\Proyecto\\video\\Secure_App_Backend\\Secure_App_Backend\\obj\\",
+        "outputPath": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\3-Parcial\\Proyecto\\video\\Backend\\Secure_App_Backend\\Secure_App_Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
